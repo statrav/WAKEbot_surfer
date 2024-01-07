@@ -1,7 +1,7 @@
 # WAKEbot_surfer
 WAKEbot is Webtoon retrievAl with Knowledge Engine chatbot.
 
-![wakebot](https://github.com/statrav/WAKEbot_surfer/assets/109338312/4dc3fee1-5f43-471e-a597-b1f524787fb5)
+![wakebot3](https://github.com/statrav/WAKEbot_surfer/assets/109338312/95cc4ea5-b6da-4f10-8bda-b69e4668a95f)
 ![wakebot_설명서](https://github.com/statrav/WAKEbot_surfer/assets/109338312/b0a84891-6788-4a2b-a4b7-9ce29267b734)
 
 
