@@ -11,10 +11,10 @@
 ---
 -	LLM + ELK + Chatbot + Web_service </br>
 -	웹툰 정보를 crawling하여, knowledge를 기반으로 하는 웹툰 검색봇 구현 </br>
-  - hallucination 최소화 </br>
+    - hallucination 최소화 </br>
 -	Pipeline 정립 </br>
     - knn retrieval 사용 </br>
-  - ES indexing </br>
-  - mistral-7b </br>
-  - gpt-3.5-turbo </br>
+    - ES indexing </br>
+    - mistral-7b </br>
+    - gpt-3.5-turbo </br>
 -	Streamlit을 통한 web service 구현
