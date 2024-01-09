@@ -6,7 +6,7 @@
 ![wakebot_설명서](https://github.com/statrav/WAKEbot_surfer/assets/109338312/b0a84891-6788-4a2b-a4b7-9ce29267b734)
 
 ### Pipeline
-![자연어처리  대학원생2팀(surfer) poster-1](https://github.com/statrav/WAKEbot_surfer/assets/109338312/e49195c6-bf39-417d-a049-1e82878b45df)
+![poster-1](https://github.com/statrav/WAKEbot_surfer/assets/109338312/fc707b9c-490d-49c1-a0b4-239f8ce8141e)
 
 ---
 -	LLM + ELK + Chatbot + Web_service </br>
